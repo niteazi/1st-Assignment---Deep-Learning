@@ -1,0 +1,335 @@
+Processing Story 0 with prompt length 1024
+Processing Story 1 with prompt length 1024
+Processing Story 2 with prompt length 1024
+Processing Story 3 with prompt length 1024
+Processing Story 4 with prompt length 1024
+Processing Story 5 with prompt length 1024
+Processing Story 6 with prompt length 1024
+Processing Story 7 with prompt length 1024
+Processing Story 8 with prompt length 1024
+Processing Story 9 with prompt length 1024
+Processing Story 10 with prompt length 1024
+Processing Story 11 with prompt length 1024
+Processing Story 12 with prompt length 1024
+Processing Story 13 with prompt length 1024
+Processing Story 14 with prompt length 1024
+Processing Story 15 with prompt length 1024
+Processing Story 16 with prompt length 1024
+Processing Story 17 with prompt length 1024
+Processing Story 18 with prompt length 1024
+Processing Story 19 with prompt length 1024
+Processing Story 20 with prompt length 1024
+Processing Story 21 with prompt length 1024
+Processing Story 22 with prompt length 1024
+Processing Story 23 with prompt length 1024
+Processing Story 24 with prompt length 1024
+Processing Story 25 with prompt length 1024
+Processing Story 26 with prompt length 1024
+Processing Story 27 with prompt length 1024
+Processing Story 28 with prompt length 1024
+Processing Story 29 with prompt length 1024
+Processing Story 30 with prompt length 1024
+Processing Story 31 with prompt length 1024
+Processing Story 32 with prompt length 1024
+Processing Story 33 with prompt length 1024
+Processing Story 34 with prompt length 1024
+Processing Story 35 with prompt length 1024
+Processing Story 36 with prompt length 1024
+Processing Story 37 with prompt length 1024
+Processing Story 38 with prompt length 1024
+Processing Story 39 with prompt length 1024
+Processing Story 40 with prompt length 1024
+Processing Story 41 with prompt length 1024
+Processing Story 42 with prompt length 1024
+Processing Story 43 with prompt length 1024
+Processing Story 44 with prompt length 1024
+Processing Story 45 with prompt length 1024
+Processing Story 46 with prompt length 1024
+Processing Story 47 with prompt length 1024
+Processing Story 48 with prompt length 1024
+Processing Story 49 with prompt length 1024
+Processing Story 50 with prompt length 1024
+Processing Story 51 with prompt length 1024
+Processing Story 52 with prompt length 1024
+Processing Story 53 with prompt length 1024
+Processing Story 54 with prompt length 1024
+Processing Story 55 with prompt length 1024
+Processing Story 56 with prompt length 1024
+Processing Story 57 with prompt length 1024
+Processing Story 58 with prompt length 1024
+Processing Story 59 with prompt length 1024
+Processing Story 60 with prompt length 1024
+Processing Story 61 with prompt length 1024
+Processing Story 62 with prompt length 1024
+Processing Story 63 with prompt length 1024
+Processing Story 64 with prompt length 1024
+Processing Story 65 with prompt length 1024
+Processing Story 66 with prompt length 1024
+Summary of Story 0:
+ Arthur Conan Doyle's latest novel, The Adventure of The Three Gables, was published in 1926 . Holmes' adventures with Conan Doyle opened with a visit to the home of The Gables . Conan Doyle had no idea of the new channel into which his activities had been directed .
+
+
+Summary of Story 1:
+ Arthur Conan Doyle's latest Sherlock Holmes novel, The Adventure of the Three Garridebs, is published by The Crime and The Death of Sherlock Holmes . Conan Doyle’s first novel was published in 1903 . Conan Conan Doyle is best known for his Sherlock Holmes novels, The Sherlock Holmes Story .
+
+
+Summary of Story 2:
+ Arthur Conan Doyle has written a book about the adventures of Sherlock Holmes and his friends . Conan Doyle's book was published in the summer of 1995 . The book is set to be published by the University of Cambridge in September 2015 . The story follows Holmes and Holmes on their way to a University town in 1995 .
+
+
+Summary of Story 3:
+ Arthur Conan Doyle's latest Sherlock Holmes novel, The Adventures of the Abbey Grange, was published in 1897 . The story follows the adventures of Sherlock Holmes and Watson Watson . The novel is set in London and retitled "The Adventures of The Grange" and "The Golden Round"
+
+
+Summary of Story 4:
+ The Adventure of the Red-Headed League is the work of Arthur Conan Doyle . The adventures of Sherlock Holmes include a murder-suicide in Bohemia . The book is published in the UK by Simon Cowell, a copy of the original edition of this edition .
+
+
+Summary of Story 5:
+ It was a bright, crisp February morning, and the snow of the day before still lay deep upon the ground, shimmering brightly in the wintry sun . The grey pavement had been cleaned and scraped, but was still dangerous .
+
+
+Summary of Story 6:
+ Arthur Conan Doyle: Holmes was in better form, both mental and physical, than in the year '95 . Holmes, one, man, hopkins, would, said, peter, upon, could, us. Story:  The ADVENTURE OF BLACK PETER THE ADVENTURES OF THE GREATEST PETER HOPkins .
+
+
+Summary of Story 7:
+ Arthur Conan Doyle's latest Sherlock Holmes novel, The Blanchied Soldier, is published by Sherlock Holmes . The story follows the murder of a soldier in the early 1900s . Conan Doyle has written a number of Sherlock Holmes stories in his collection . Conan Conan Doyle is best known for his Sherlock Holmes novels .
+
+
+Summary of Story 8:
+ Arthur Conan Doyle had called upon his friend Sherlock Holmes upon the second morning after Christmas . He was lounging upon the sofa in a purple dressing-gown, a pipe-rack within his reach upon the right, and a pile of crumpled papers, evidently newly studied, near at hand . Beside the couch was a wooden chair, and on the angle of the back hung a seedy and disreputable hard-felt hat, much the worse for wear . A
+
+
+Summary of Story 9:
+ Arthur Conan Doyle has written a new book about the Boscombe Valley mystery . The book was published in 1926 and is published today . Conan Doyle's version of the book is published in Newberybery Hall of Fame, The Sherlock Holmes Story, The Great Detective Story .
+
+
+Summary of Story 10:
+ Arthur Conan Doyle's latest Sherlock Holmes novel, The Adventure of the Great War, is published by The Daily Review . The author's version of the novel is based on the novel by Arthur Conan Conan Doyle . Conan Doyle is the author of The Death of Sherlock Holmes, published in 1895 .
+
+
+Summary of Story 11:
+ The Complete Complete Sherlock Holmes is published by Sir Arthur Conan Doyle . The book is published in the UK and Australia . The story is set to be published in 2015 and 2015 . The author has written a number of editions of the book and has published more than 200,000 copies .
+
+
+Summary of Story 12:
+ Arthur Conan Doyle chose a few typical cases which illustrate the remarkable mental qualities of his friend, Sherlock Holmes . He chose those which presented the minimum of sensationalism while offering a fair field for his talents . It is, unfortunately impossible entirely to separate the sensational from the criminal, and a chronicler is left in the dilemma that he must either sacrifice details which are essential to his story .
+
+
+Summary of Story 13:
+ The Case-Book of Sherlock Holmes is published by Arthur Conan Doyle . The case-book is written in the first edition of this edition of The Sherlock Holmes Case . The book is published in the UK by Sir Ken MacIntear, published in October 2013 .
+
+
+Summary of Story 14:
+ Arthur Conan Doyle tells the story of a unique experience in the career of Sherlock Holmes and himself . Conan Doyle says the incident took place years ago and is now beyond the reach of human law . The story may be told in such fashion as to injure no one. The reader will excuse me if I conceal the date of the incident .
+
+
+Summary of Story 15:
+ The Complete Complete Sherlock Holmes is published by Sir Arthur Conan Doyle . The book is published in the UK and Australia . The story is set to be published in 2015 and 2015 . The author has written a number of editions of the book and has published more than 200,000 copies .
+
+
+Summary of Story 16:
+ Arthur Conan Doyle's latest Sherlock Holmes novel, The Adventure of the Copper Beeches, is published by Sherlock Holmes . The book was published in 1926 and published by The Century Century Publishing House, London, at the request of Sherlock Holmes and The Countessess of Scotland Yard .
+
+
+Summary of Story 17:
+ The case was one of the last cases handled by Holmes before his retirement from practice . Conan Doyle was always of opinion that I should publish the singular facts connected with Professor Presbury . The true history of this curious case remained entombed in the tin box which contains so many records of my friend's adventures .
+
+
+Summary of Story 18:
+ Arthur Conan Doyle was inspired by the work of Sherlock Holmes . Conan Doyle's Sherlock Holmes inspired him to write The Wizard of Oz . Conan Conan Doyle is best known for his Sherlock Holmes novel, The Death of the Wizard, The Great Britain, Conan Doyle .
+
+
+Summary of Story 19:
+ Holmes had been seated for some hours in silence with his long, thin back curved over a chemical vessel in which he was brewing a particularly malodorous product . His head was sunk upon his breast, and he looked from my point of view like a strange, lank bird . "So, Watson," said Holmes, suddenly, "you do not propose to invest in South African securities?"
+
+
+Summary of Story 20:
+ Arthur Conan Doyle has written a book about his friendship with Sherlock Holmes . Conan Doyle's version of the Sherlock Holmes story is published in October 2015 . The book was published by The Century Century Publishing House, London, at the London branch of The Sherlock Holmes Society, The Holmes Holmes Society and The Holmes Society .
+
+
+Summary of Story 21:
+ Arthur Conan Doyle's latest Sherlock Holmes novel, The Death of Sherlock Holmes, is published by Little Britain . The novel is based on a novel written by Conan Doyle . The main character is played by Sherlock Holmes and his wife, Mrs. Hudson, in London .
+
+
+Summary of Story 22:
+ Arthur Conan Doyle retells the murder of Ronald Adair under most unusual and inexplicable circumstances . The crime was of interest in itself, but that interest was as much as the inconceivable sequel . The case for the prosecution was so strong that it was not necessary to bring forward all the facts . Only now, at the end of nearly ten years, am I allowed to supply those missing links which make up the whole of that remarkable chain .
+
+
+Summary of Story 23:
+ Arthur Conan Doyle's Sherlock Holmes' Holmes' Sherlock Holmes wrote The Adventure of the Engineer's Thumb . Conan Doyle wrote Conan Conan Doyle about the adventures of Mr. Hatherley's thumb and Colonel Warburton's madness . The story has, I believe, been told more than once in the newspapers, but, like all such narratives, it has never been published .
+
+
+Summary of Story 24:
+ Arthur Conan Doyle's last words: "In an incoherent fashion, I have endeavored to give some account of my strange experiences in his strange experiences" Conan Conan Doyle: "It was my intention to have stopped there, and to have said nothing of that event which has created a void in my life"
+
+
+Summary of Story 25:
+ Arthur Conan Doyle's notes and records of the Sherlock Holmes cases between '82 and '90 . Some of the cases have baffled his analytical skill, and some have baffled him analytical skill . Others have been but partially cleared up, and have their explanations founded upon conjecture and surmise .
+
+
+Summary of Story 26:
+ Arthur Conan Doyle tells the story of the case of the Gloria Scott . The case was solved by the murder of Trevor Scott . Conan Doyle's Sherlock Holmes' Sherlock Holmes wrote a note to the Justice of the Peace Trevor . The note was scrawled on a half-sheet of slate gray-paper and read: "The supply of game for London is going steadily up"
+
+
+Summary of Story 27:
+ Arthur Conan Doyle's first novel, The Golden Ring, was published in 1894 . Conan Doyle is best known for his detective stories, The Death of Sherlock Holmes, The Sherlock Holmes and The Death Of The Countessess of the Cornish Baronessessine .
+
+
+Summary of Story 28:
+ Arthur Conan Doyle’s Sherlock Holmes never mentioned his relations or his early life . Conan Doyle had come to believe that Holmes was an orphan with no relatives living . Holmes' aversion to women and disinclination to form new friendships were typical of his unemotional character .
+
+
+Summary of Story 29:
+ The Hound of the Baskervilles is the work of Arthur Conan Doyle . Summarize the story focusing on these key points: holmes, said, man, stick, sir, watson, would, hospital, one, mortimer .
+
+
+Summary of Story 30:
+ Arthur Conan Doyle's Sherlock Holmes' Sherlock Holmes tells the tale of a case of mistaken genius . The story follows the detective's quest to solve the mystery of a woman's love of the night . Conan Doyle is best known for his Sherlock Holmes novel, The Sherlock Holmes Story .
+
+
+Summary of Story 31:
+ Arthur Conan Doyle reveals his friendship with Sherlock Holmes . Conan Doyle and Holmes had a weakness for the Turkish bath . Holmes and Watson smoked in the drying-room of a Turkish bath in September 1902 . Holmes was less reticent and more human than anywhere else, Doyle writes .
+
+
+Summary of Story 32:
+ Arthur Conan Doyle's latest book, The Death of Lady Frances Carfex, is published by The Crime and Death of Sherlock Holmes . The story follows the disappearance of Lady Francis Carfax, the murder of Lady Carfaux . The book was published in 1903 and is now published in New York .
+
+
+Summary of Story 33:
+ An Epilogue of Sherlock Holmes is published by Arthur Conan Doyle . The story is an epilogue to the famous detective's Sherlock Holmes story . The two famous Germans stood beside the stone parapet of the parapet . They looked down upon the broad sweep of the beach at the foot of the great beach .
+
+
+Summary of Story 34:
+ Arthur Conan Doyle's latest novel, The Adventure of the Lion's Man, is published by Sir Ken MacIntosh . Conan Doyle is best known for his Sherlock Holmes novels, The Death of Conan Conan Doyle, The Great Adventure of Conan Doyle . The novel is set to be published by BBC Radio 4 in 2015 .
+
+
+Summary of Story 35:
+ The friends of Mr. Holmes will be glad to learn that he is still alive and well, though somewhat crippled by occasional attacks of rheumatism . He has, for many years, lived in a small farm on the downs five miles from Eastbourne, where his time is diarest .
+
+
+Summary of Story 36:
+ Arthur Conan Doyle's latest novel, The Adventure of The Mzarin Stone, is published by Sir Ian Conan Doyle . The book was published in 1897 and is published in London, USA, Australia, Canada, Australia and New Zealand . It is the first of many works by Conan Doyle published in the UK and Australia .
+
+
+Summary of Story 37:
+ "I am afraid, Watson, that I shall have to go," said Holmes, as we sat down together to our breakfast one morning . "I was not surprised. Indeed, my only wonder was that he had not already been mixed up in this extraordinary case," Holmes said . "Go! Where to?" he asked Watson: "To Dartmoor; to King's Pyland."
+
+
+Summary of Story 38:
+ Arthur Conan Doyle's Sherlock Holmes sent a strange telegram to Holmes . The telegrams were addressed to a man who had lost three-quarters of his wing wing . Holmes was puzzled by the message and read it over and over . Holmes: "Please await me. Terrible misfortune"
+
+
+Summary of Story 39:
+ Arthur Conan Doyle’s latest novel, The Musgrave, is published by Simon Cowell . Conan Doyle is the author of the book, The Last Friday, at 8pm on BBC One, BBC One.com.com/Heroes.com . The book is published in the UK and Australia.
+
+
+Summary of Story 40:
+ Arthur Conan Doyle: The July which immediately succeeded my marriage was made memorable by three cases of interest . The first of these, however, deals with interest of such importance and implicates so many of the first few families in the kingdom that for many years it will be impossible to make it public . No case in which Holmes was engaged has ever illustrated the value of his analytical methods so clearly or so clearly .
+
+
+Summary of Story 41:
+ Arthur Conan Doyle: The Lord St. Simon marriage, and its curious termination, have long ceased to be a subject of interest in those exalted circles . Fresh scandals have eclipsed it, and their more piquant details have drawn the gossips away from this four-year-old drama .
+
+
+Summary of Story 42:
+ "London has become a singularly uninteresting city since the death of the late lamented Professor Moriarty," says Holmes . Holmes: "I can hardly think that you would find many decent citizens to agree with you" Conan Doyle: "The community is certainly the gainer, and no one the loser, save the poor out-of-work specialist"
+
+
+Summary of Story 43:
+ Arthur Conan Doyle's latest novel, The Adventure of the Priory School, is published by The Daily Reviewer . The novel is based on the works of Sherlock Holmes and The Death of Henry Fowles . The story follows the murder of Thorneycroft Huxtable at the time of his death .
+
+
+Summary of Story 44:
+ The ADVENTURE OF THE RED CIRCLE is the work of Arthur Conan Doyle . The story follows the adventures of Sherlock Holmes and the landlady of Fairdale Hobbs . The book is published in the UK and Canada . The author has published more than 1,000 books worldwide .
+
+
+Summary of Story 45:
+ Arthur Conan Doyle's latest book is The Red-Headed Lady Watson's The Sherlock Holmes Story . Watson meets Sherlock Holmes at the end of a case with a red-haired elderly man . Watson is Watson's partner in the detective's most successful case . Watson and Holmes were engaged in the case .
+
+
+Summary of Story 46:
+ Arthur Conan Doyle sketched a sketch of the famous detective's life-long quest to solve a crime crime . The story follows the disappearance of Baron Maupertuis from the Netherland-Sumatra Company in the spring of '87 . Conan Doyle was forced to retire from the detective's duties in the summer of that year .
+
+
+Summary of Story 47:
+ Arthur Conan Doyle’s Sherlock Holmes Memoirs . Conan Conan Doyle has written a book about the detective's peculiar methods of investigation . Conan Doyle's book was published in the 1920s and 1930s and 1940s . Holmes was a popular detective and author of Sherlock Holmes' Sherlock Holmes novels .
+
+
+Summary of Story 48:
+ Sherlock Holmes was in a melancholy and philosophic mood that morning . His alert practical nature was subject to such reactions . Story:    The ADVENTURE OF THE RETIRED COLOURMAN THE ADVENTURES of The Retired Colourman .
+
+
+Summary of Story 49:
+ The Adventure of the Empty House is the story of The Return of Sherlock Holmes . The book was published by Arthur Conan Doyle in 1953 . The plot is set to be published in the UK and Australia . The story is based on the works of Sherlock Conan Doyle, author of The Sherlock Holmes Story .
+
+
+Summary of Story 50:
+ Arthur Conan Doyle’s book is published by Simon Cowell . The book is based on the works of Sherlock Holmes and The Death of the Countess of Bohemia . The novel is published in the UK and Canada and is available on Amazon.com/Heroes .
+
+
+Summary of Story 51:
+ Arthur Conan Doyle had intended "The Adventure of the Abbey Grange" to be the last of "Sherlock Holmes" Conan Doyle: "I have notes of many hundreds of cases to which I have never alluded" Holmes: "So long as he was in actual professional practice the records of his successes were of some practical value to him"
+
+
+Summary of Story 52:
+ Sherlock Holmes had been bending for a long time over a low-power microscope . He straightened himself up and looked round at me in a triumph . "It is glue, Watson," said he. "Unquestionably it is glue"
+
+
+Summary of Story 53:
+ The Sign of the Four by Arthur Conan Doyle . Summarize the story focusing on these key points: upon, one, said, watch, could, case, man, back, answered, would . The Science of Deduction: The Case: The Statement of the Case. The Great Agra Treasure: The Tragedy of Pondicherry Lodge. The Baker Street Irregulars: A Break in the Chain. The End of the Islander .
+
+
+Summary of Story 54:
+ Arthur Conan Doyle's Sherlock Holmes travels to Dartmoor and King's Pyland . Holmes and Watson had been involved in the case for over a year . Conan Doyle is best known for his Sherlock Holmes novels, The Death of Sherlock Holmes, The Great Detective .
+
+
+Summary of Story 55:
+ The adventure of the Six Napoleons is the work of Arthur Conan Doyle . Conan Doyle's first novel, The Death of Sherlock Holmes, was published in 1897 . The story is set in London, England, and is published in the UK, Australia and Ireland .
+
+
+Summary of Story 56:
+ Arthur Conan Doyle's Sherlock Holmes was a very busy man from 1894 to 1901 . He had hundreds of private cases, some of them of the most intricate and extraordinary character, in which he played a prominent part . Many startling successes and a few unavoidable failures were the outcome of this long period of continuous work .
+
+
+Summary of Story 57:
+ Arthur Conan Doyle retells the story of his friend Sherlock Holmes in a new edition of The Sherlock Holmes novel, The Adventure of The Spokesman of Scotland . The story is set in the early days of Conan Doyle's friendship with Holmes .
+
+
+Summary of Story 58:
+ Arthur Conan Doyle purchased a connection in the Paddington district after his marriage . Conan Doyle had an excellent general practice, but his age, and an affliction of the nature of St. Vitus's dance from which he suffered, had thinned it . The public not unnaturally goes on the principle that he would heal others must himself be whole .
+
+
+Summary of Story 59:
+ The story is a study in the works of Arthur Conan Doyle . Summarize the story focusing on these key points: said, stamford, man, answered, know, one, would, blood, could, asked. Summarized the story .
+
+
+Summary of Story 60:
+ Holmes had read carefully a note which the last post had brought him. He tossed it over to me. "For a mixture of the modern and the mediaeval, I think this is surely the limit," said Holmes. "What do you make of it, Watson?"
+
+
+Summary of Story 61:
+ Arthur Conan Doyle's latest Sherlock Holmes novel, The Problem of Sherlock Holmes, was published in 1897 . Conan Doyle’s book, The Sherlock Holmes Problem, is published in London, Australia and New York . The book was written by Conan Conan Doyle, a pseudonym for Sherlock Holmes and his assistant, Arthur Holmes .
+
+
+Summary of Story 62:
+ Isa Whitney, brother of the late Elias Whitney, D.D., was addicted to opium . The habit grew upon him, as I understand, from some foolish freakishly . He had read De Quincey's description of his dreams and sensations, he had drenched his tobacco with laudanum .
+
+
+Summary of Story 63:
+ The Tragedy of Birlstone, The Valley of Fear, The People Of The Drama, The Bodymaster and The Trapping of Birdy Edwards are published by Arthur Conan Doyle . The book is published in the UK by Simon Cowell, a self-published version of this edition of The Sherlock Holmes Story .
+
+
+Summary of Story 64:
+ Arthur Conan Doyle was in active practice with Sherlock Holmes for twenty-three years . He was allowed to cooperate with him and to keep notes of his doings . The problem has always been not to find but to choose, says Conan Doyle . Conan Doyle’s best-selling novel, The Adventure of the Vilegger, was published in 1897 .
+
+
+Summary of Story 65:
+ The Singular Experience of Mr. John Scott Eccles is published by Arthur Conan Doyle . The Tiger of San Pedro is the first chapter of Doyle's novel . The story is set in 1892 and is set to be published in the UK and Australia .
+
+
+Summary of Story 66:
+ Arthur Conan Doyle's "The Adventure of the Yellow Face" is a short novel . Conan Doyle is famous for his work on crime fiction . The book was published by The Crime and The Death of Sherlock Holmes in 18th Century, published by Conan Conan Doyle in 1888 .
+
+
